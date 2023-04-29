@@ -9,3 +9,4 @@ TextLabel.Font = Enum.Font.SourceSans
 TextLabel.Text = "This script has been removed due to being patched (new anti-wipe)"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.TextSize = 15.000
+TextLabe.TextWrapped = true
